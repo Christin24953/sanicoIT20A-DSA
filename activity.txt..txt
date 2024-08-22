@@ -1,0 +1,3 @@
+NAME:CHRISTIAN REY BOCON SANICO
+Coures:IT20A
+Activity:Basics of git and github
